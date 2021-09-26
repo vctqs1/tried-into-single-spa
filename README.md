@@ -81,3 +81,5 @@ Then, add them into your **importmap**:
 ```
 
 Organization name -- **@vctqs1** -- and packages name -- **vctqs1-new-package** -- carries great importance, if you mess one of them project will complain.
+
+I was following this [article](https://ogzhanolguncu.com/blog/migrating-cra-to-micro-frontends-with-single-spa) to setup this project
