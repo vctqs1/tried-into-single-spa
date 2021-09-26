@@ -18,6 +18,7 @@ $ yarn
 $ yarn start-all
 $ open http://localhost:9000/
 ```
+When you see this image, you start succesfully ![image](https://user-images.githubusercontent.com/30227910/134805976-8814a95d-1264-416a-a8f4-7210c6e13ea1.png)
 
 ## Purpose of the project
 
